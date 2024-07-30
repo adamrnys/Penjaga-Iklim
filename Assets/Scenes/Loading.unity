@@ -379,7 +379,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stopMusicScenes:
   - Forest
-  - Industrial
   - Sampah
   - Fish
 --- !u!82 &575929594

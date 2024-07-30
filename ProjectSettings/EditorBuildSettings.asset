@@ -11,13 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FirstMenu.unity
     guid: 4ef06d1f019fa43438853b60b9d31bc8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
     guid: 5e13385dc88e1c84c8a89248ed8295e7
   - enabled: 1
     path: Assets/Scenes/Setting.unity
     guid: 67288f1a12f379441a9018f609835174
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Industrial.unity
     guid: 06b9e259be586694ba685ca282dc0c19
   - enabled: 1
@@ -26,31 +26,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelMenu.unity
     guid: 3c59576f2cd8c31459ac6c748528f39a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuMateri.unity
     guid: f76b6acafc6f3204882c696d47ac5fd7
   - enabled: 1
     path: Assets/Scenes/AlertForest.unity
     guid: 76a4a547147049d4290d50b3a95d73e0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MateriPengertian.unity
     guid: fb30a857f3e57e74d8b760246f68cf37
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MateriDampak.unity
     guid: 53262f02018e8c148b722b10a1c827e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MateriPencegahan.unity
     guid: 3684ee64bcafc7842be0b93f0b20d05b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AlertIndustrial.unity
     guid: d7f79afbd9cf97849bb6f0e8beda7fc5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/KilasBalik.unity
     guid: bbfd6dfe25c04eb42bfee8348842c0d8
   - enabled: 1
     path: Assets/Scenes/FinishForest.unity
     guid: e64df2966773ec8499eb88ef74ef10f3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FinishIndustrial.unity
     guid: 244feced958cc6645b41942b0aa87ce4
   - enabled: 1
@@ -71,4 +71,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampahBaru.unity
     guid: 6b08ae8aa313be94297bf15582d539e9
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ce1b92c077db1a41a73c94114e94fbe, type: 2}
